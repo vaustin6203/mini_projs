@@ -2,15 +2,12 @@
 A repo containing small-scale projects from CS61B. 
 
 Sound Sythesizer
-
 A package for generating synthesized musical instruments.
 
 Percolation 
-
 A program to estimate the value of the percolation threshold via Monte Carlo simulation.
 
 Hashing
-
 A simple hash table.
 
 Puzzle Solver
